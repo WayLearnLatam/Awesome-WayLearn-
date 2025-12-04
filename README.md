@@ -5,44 +5,16 @@ Este es el punto de encuentro del talento Web3 en Latinoamérica. Somos wayLearn
 En este repositorio encontrarás una colección de proyectos creados por miembros de la comunidad, demostrando sus habilidades en diferentes protocolos y ecosistemas blockchain. Explora el código, inspírate con las soluciones y descubre el potencial de los builders latinos en la nueva web.
 
 ## Indice
-- [Azle](#azle)
-- [Motoko](#motoko)
 - [Move](#move)
 - [Aptos](#aptos)
+- [Azle](#azle)
+- [Motoko](#motoko)
+---
 
-### Azle 
-| Nombre del Proyecto | Descripción | Enlace al Repositorio |
-|---------------------|-------------|-----------------------|
-| Asimov Lab | Plataforma descentralizada para publicación y difusión de investigaciones científicas utilizando blockchain. Objetivo: liberar la ciencia de la censura, el control y las barreras de acceso. | https://github.com/Balzzac/Asimov-LAB |
-| Gestion de Proyecto | Sistema de gestión de proyectos automatizado para optimizar tareas administrativas y facilitar colaboración en tiempo real. | https://github.com/RomVqz/to-do-list.git |
-| Base de datos medica descentralizada | Sistema de historial médico descentralizado donde el paciente es dueño de su información médica. | https://github.com/adrian-d-hidalgo/icp-azle-certification |
-| API de Gestión de Empleados | API para gestión de empleados con operaciones CRUD, implementada en Node.js con Express y Azle. | https://github.com/NelyR55/crud_MCN.git |
-| LifeStream | Aplicación de vídeo orientada a blockchain que garantiza integridad de datos, resistencia a la censura y privacidad del usuario. | https://github.com/rdls21/life_stream |
-| Invetario agroquimicos | Sistema básico para organización de inventario o almacén de productos agroquímicos. | https://github.com/Vanessa2131/Proyecto-ICP |
-**[⬆ Volver al Indice](#index)**
+![Banner](./images/banner.jpg)
 
-### Motoko
-| Nombre del Proyecto | Descripción | Enlace al Repositorio |
-|---------------------|-------------|-----------------------|
-| ICP Domain Registry | MVP funcional para registrar, explorar y resolver dominios .icp en Internet Computer. | https://github.com/MelenoiddCoding/icp-domain-registry |
-| AgroMatrix | Bitácora agronómica para registrar y gestionar información clave sobre cultivos agrícolas. | https://github.com/Monysaurus/AgroMatrix |
-| Meme World | Backend de micro red social donde colegas programadores pueden subir memes relacionados con el desarrollo. | https://github.com/rdls21/icp-memeworld |
-| MotokoBlocks | DApp donde los usuarios pueden programar con "bloques" para generar código Motoko funcional. | https://github.com/David-HernandezM/MotokoBlocks |
-| ICP Sales Chatbot | Agente de ventas automatizado para interactuar con clientes, responder consultas y convertir leads en ventas. | https://github.com/mariogarcia-ar/tco-icp-sales-chatbot |
-| Sistema de Votaciones Seguras en la Internet Computer Protocol (ICP) | Sistema diseñado para fortalecer la seguridad en el proceso electoral mediante validación de identificación. | https://github.com/filazdev/sistema_votaciones_icp |
-| DCRM | Costumer Relationship Manager con funciones de calendario y agenda. | https://github.com/Ledesma3312/AC_CRM/tree/master |
-| TRAZA | Sistema para carga masiva de información de productos y generación automática de DPP en blockchain. | https://github.com/Traza-IO/Traza-DAPP |
-| Libro de Visitas-ICP | Aplicación web que permite a los usuarios dejar mensajes personalizados en una "pared virtual". | https://github.com/Rubio777XD/libro-de-visitas-icp/tree/main/motoko-prueba |
-| Closet | Sistema para gestionar prendas de ropa, crear conjuntos y consultar estado de limpieza y calificación. | https://github.com/Marigago/icp-backend-starter/tree/main |
-| Blockbuster | Sistema de préstamo de artículos con validaciones, fechas límite y tarifas por retraso. | https://github.com/JoshVentura/Blockbuster |
-| Certificado | Sistema central para validación de certificados de capacitación emitidos por una institución. | https://github.com/jrmartinezm/certificado |
-| DecentPropMate | Aplicación para manejo de propiedades donde inquilinos pueden pedir servicios, registrarse y votar en decisiones. | https://github.com/MarProject/decentpropmate.git |
-| Alegra Studio dApp (actualización de lo entregado anteriormente) | Sistema de gestión de proyectos educativos para registrar, actualizar y publicar proyectos. | https://github.com/MissAlegraLov/AlegraStudio |
-| PetChain | Sistema de gestión de historias clínicas de mascotas. | https://github.com/ArielRobotti/MotokoPetChain/tree/master |
-| dAppCredentials | Proyecto para generar credenciales para estudiantes y maestros dentro de la blockchain de ICP. | https://github.com/amgdark/ICP-Credenciales |
-**[⬆ Volver al Indice](#index)**
-
-### Move 
+---
+## Move 
 | Nombre del Proyecto | Descripción | Enlace al Repositorio |
 |---------------------|-------------|-----------------------|
 | Boletonki | Crea tickets digitales on-chain para eventos de manera sencilla y rápida. | https://github.com/angel-ayaya/sui_tickets |
@@ -83,13 +55,61 @@ En este repositorio encontrarás una colección de proyectos creados por miembro
 | Liga_futbol | Módulo para gestión descentralizada de ligas deportivas (fútbol) en Sui. | https://github.com/Danielgonzalez151/Mi-Empresa-De-Chino |
 | Proyecto Petrolera para Certificacion Sui | Simulación de petrolera con plataformas, extracción, refinerías y venta de productos derivados. | https://github.com/lrosiello/petrolera |
 | RedSocialSUI | Red social en Sui que permite publicación de archivos con Walrus y comentarios entre usuarios. | https://github.com/Kitorishi/RedSocialBlockchain |
-**[⬆ Volver al Indice](#index)**
 
-### Aptos
+**[⬆ Volver al Indice](#indice)**
+
+---
+
+## Aptos
 | Nombre del Proyecto | Descripción | Enlace al Repositorio |
 |---------------------|-------------|-----------------------|
 | Project Trains | Es un sistema CRUD (Crear, Leer, Actualizar) on-chain para una empresa de trenes, con validaciones lógicas para asegurar que no existan "trenes fantasma" (activos sin conductor ni ruta).| https://github.com/AlejandroBecerraAcevedo/aptos-first-proyect-trains |
 | Mi Granja| El módulo Granja proporciona una serie de funciones para gestionar una granja virtual en la blockchain, permitiendo a los usuarios comprar y vender cultivos y ganado, así como consultar el estado de su granja.| https://github.com/tuclickptc/mi_granja |
 | Salary Payment | Salary Payment es una aplicación para gestionar el pago de salarios que funciona en la red de Aptos. | https://github.com/dancespiele/salary-payment |
 | scripta-manent | DApp para publicar obras en la blockchain de Aptos. Nombre inspirado en "verba volant, scripta manent". | https://github.com/1tz3l/scripta-manent |
-**[⬆ Volver al Indice](#index)**
+
+**[⬆ Volver al Indice](#indice)**
+
+---
+
+![Banner](./images/Picture1.png)
+
+---
+
+## Azle 
+| Nombre del Proyecto | Descripción | Enlace al Repositorio |
+|---------------------|-------------|-----------------------|
+| Asimov Lab | Plataforma descentralizada para publicación y difusión de investigaciones científicas utilizando blockchain. Objetivo: liberar la ciencia de la censura, el control y las barreras de acceso. | https://github.com/Balzzac/Asimov-LAB |
+| Gestion de Proyecto | Sistema de gestión de proyectos automatizado para optimizar tareas administrativas y facilitar colaboración en tiempo real. | https://github.com/RomVqz/to-do-list.git |
+| Base de datos medica descentralizada | Sistema de historial médico descentralizado donde el paciente es dueño de su información médica. | https://github.com/adrian-d-hidalgo/icp-azle-certification |
+| API de Gestión de Empleados | API para gestión de empleados con operaciones CRUD, implementada en Node.js con Express y Azle. | https://github.com/NelyR55/crud_MCN.git |
+| LifeStream | Aplicación de vídeo orientada a blockchain que garantiza integridad de datos, resistencia a la censura y privacidad del usuario. | https://github.com/rdls21/life_stream |
+| Invetario agroquimicos | Sistema básico para organización de inventario o almacén de productos agroquímicos. | https://github.com/Vanessa2131/Proyecto-ICP |
+
+**[⬆ Volver al Indice](#indice)**
+
+----
+
+## Motoko
+| Nombre del Proyecto | Descripción | Enlace al Repositorio |
+|---------------------|-------------|-----------------------|
+| ICP Domain Registry | MVP funcional para registrar, explorar y resolver dominios .icp en Internet Computer. | https://github.com/MelenoiddCoding/icp-domain-registry |
+| AgroMatrix | Bitácora agronómica para registrar y gestionar información clave sobre cultivos agrícolas. | https://github.com/Monysaurus/AgroMatrix |
+| Meme World | Backend de micro red social donde colegas programadores pueden subir memes relacionados con el desarrollo. | https://github.com/rdls21/icp-memeworld |
+| MotokoBlocks | DApp donde los usuarios pueden programar con "bloques" para generar código Motoko funcional. | https://github.com/David-HernandezM/MotokoBlocks |
+| ICP Sales Chatbot | Agente de ventas automatizado para interactuar con clientes, responder consultas y convertir leads en ventas. | https://github.com/mariogarcia-ar/tco-icp-sales-chatbot |
+| Sistema de Votaciones Seguras en la Internet Computer Protocol (ICP) | Sistema diseñado para fortalecer la seguridad en el proceso electoral mediante validación de identificación. | https://github.com/filazdev/sistema_votaciones_icp |
+| DCRM | Costumer Relationship Manager con funciones de calendario y agenda. | https://github.com/Ledesma3312/AC_CRM/tree/master |
+| TRAZA | Sistema para carga masiva de información de productos y generación automática de DPP en blockchain. | https://github.com/Traza-IO/Traza-DAPP |
+| Libro de Visitas-ICP | Aplicación web que permite a los usuarios dejar mensajes personalizados en una "pared virtual". | https://github.com/Rubio777XD/libro-de-visitas-icp/tree/main/motoko-prueba |
+| Closet | Sistema para gestionar prendas de ropa, crear conjuntos y consultar estado de limpieza y calificación. | https://github.com/Marigago/icp-backend-starter/tree/main |
+| Blockbuster | Sistema de préstamo de artículos con validaciones, fechas límite y tarifas por retraso. | https://github.com/JoshVentura/Blockbuster |
+| Certificado | Sistema central para validación de certificados de capacitación emitidos por una institución. | https://github.com/jrmartinezm/certificado |
+| DecentPropMate | Aplicación para manejo de propiedades donde inquilinos pueden pedir servicios, registrarse y votar en decisiones. | https://github.com/MarProject/decentpropmate.git |
+| Alegra Studio dApp (actualización de lo entregado anteriormente) | Sistema de gestión de proyectos educativos para registrar, actualizar y publicar proyectos. | https://github.com/MissAlegraLov/AlegraStudio |
+| PetChain | Sistema de gestión de historias clínicas de mascotas. | https://github.com/ArielRobotti/MotokoPetChain/tree/master |
+| dAppCredentials | Proyecto para generar credenciales para estudiantes y maestros dentro de la blockchain de ICP. | https://github.com/amgdark/ICP-Credenciales |
+
+**[⬆ Volver al Indice](#indice)**
+
+
